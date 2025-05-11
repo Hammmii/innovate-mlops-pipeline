@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/apple.store.pk/Desktop/MLOps_Project/mlruns/786922403478553257/1b8baf1ea2cc4ed5940a9c77d44751c5/artifacts
+end_time: 1746977145312
+entry_point_name: ''
+experiment_id: '786922403478553257'
+lifecycle_stage: active
+run_id: 1b8baf1ea2cc4ed5940a9c77d44751c5
+run_name: bemused-moth-149
+run_uuid: 1b8baf1ea2cc4ed5940a9c77d44751c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746977145306
+status: 3
+tags: []
+user_id: apple.store.pk

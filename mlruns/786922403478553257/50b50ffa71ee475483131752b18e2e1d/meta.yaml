@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/apple.store.pk/Desktop/MLOps_Project/mlruns/786922403478553257/50b50ffa71ee475483131752b18e2e1d/artifacts
+end_time: 1746890897691
+entry_point_name: ''
+experiment_id: '786922403478553257'
+lifecycle_stage: active
+run_id: 50b50ffa71ee475483131752b18e2e1d
+run_name: abundant-lamb-817
+run_uuid: 50b50ffa71ee475483131752b18e2e1d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746890897686
+status: 3
+tags: []
+user_id: apple.store.pk

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/apple.store.pk/Desktop/MLOps_Project/scripts/mlruns/790247777961691026/02b0e9b3039e459ea2376e8ce3764fbc/artifacts
+end_time: 1746887795167
+entry_point_name: ''
+experiment_id: '790247777961691026'
+lifecycle_stage: active
+run_id: 02b0e9b3039e459ea2376e8ce3764fbc
+run_name: lyrical-trout-714
+run_uuid: 02b0e9b3039e459ea2376e8ce3764fbc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746887794090
+status: 4
+tags: []
+user_id: apple.store.pk

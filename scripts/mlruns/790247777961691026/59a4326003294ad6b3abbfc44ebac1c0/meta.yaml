@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/apple.store.pk/Desktop/MLOps_Project/scripts/mlruns/790247777961691026/59a4326003294ad6b3abbfc44ebac1c0/artifacts
+end_time: 1746889003739
+entry_point_name: ''
+experiment_id: '790247777961691026'
+lifecycle_stage: active
+run_id: 59a4326003294ad6b3abbfc44ebac1c0
+run_name: awesome-wolf-988
+run_uuid: 59a4326003294ad6b3abbfc44ebac1c0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746889003734
+status: 3
+tags: []
+user_id: apple.store.pk

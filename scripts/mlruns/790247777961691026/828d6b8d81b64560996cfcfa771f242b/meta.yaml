@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/apple.store.pk/Desktop/MLOps_Project/scripts/mlruns/790247777961691026/828d6b8d81b64560996cfcfa771f242b/artifacts
+end_time: 1746888988158
+entry_point_name: ''
+experiment_id: '790247777961691026'
+lifecycle_stage: active
+run_id: 828d6b8d81b64560996cfcfa771f242b
+run_name: capricious-frog-231
+run_uuid: 828d6b8d81b64560996cfcfa771f242b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746888988153
+status: 3
+tags: []
+user_id: apple.store.pk

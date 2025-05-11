@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/apple.store.pk/Desktop/MLOps_Project/mlruns/786922403478553257/f12aa7b071dd4ad9bb63b549b3e1f6d9/artifacts
+end_time: 1746887073827
+entry_point_name: ''
+experiment_id: '786922403478553257'
+lifecycle_stage: active
+run_id: f12aa7b071dd4ad9bb63b549b3e1f6d9
+run_name: dazzling-grub-563
+run_uuid: f12aa7b071dd4ad9bb63b549b3e1f6d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746887071913
+status: 3
+tags: []
+user_id: apple.store.pk

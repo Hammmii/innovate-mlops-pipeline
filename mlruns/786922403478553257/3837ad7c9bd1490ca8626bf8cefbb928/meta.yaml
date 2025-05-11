@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/apple.store.pk/Desktop/MLOps_Project/mlruns/786922403478553257/3837ad7c9bd1490ca8626bf8cefbb928/artifacts
+end_time: 1746887615680
+entry_point_name: ''
+experiment_id: '786922403478553257'
+lifecycle_stage: active
+run_id: 3837ad7c9bd1490ca8626bf8cefbb928
+run_name: resilient-mouse-73
+run_uuid: 3837ad7c9bd1490ca8626bf8cefbb928
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746887614558
+status: 4
+tags: []
+user_id: apple.store.pk

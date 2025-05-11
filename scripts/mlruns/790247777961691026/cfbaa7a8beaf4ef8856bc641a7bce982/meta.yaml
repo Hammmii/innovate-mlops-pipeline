@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/apple.store.pk/Desktop/MLOps_Project/scripts/mlruns/790247777961691026/cfbaa7a8beaf4ef8856bc641a7bce982/artifacts
+end_time: 1746888996130
+entry_point_name: ''
+experiment_id: '790247777961691026'
+lifecycle_stage: active
+run_id: cfbaa7a8beaf4ef8856bc641a7bce982
+run_name: bouncy-chimp-984
+run_uuid: cfbaa7a8beaf4ef8856bc641a7bce982
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746888996125
+status: 3
+tags: []
+user_id: apple.store.pk

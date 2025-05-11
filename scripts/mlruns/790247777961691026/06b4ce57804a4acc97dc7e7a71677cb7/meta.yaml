@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/apple.store.pk/Desktop/MLOps_Project/scripts/mlruns/790247777961691026/06b4ce57804a4acc97dc7e7a71677cb7/artifacts
+end_time: 1746887817779
+entry_point_name: ''
+experiment_id: '790247777961691026'
+lifecycle_stage: active
+run_id: 06b4ce57804a4acc97dc7e7a71677cb7
+run_name: fearless-fish-192
+run_uuid: 06b4ce57804a4acc97dc7e7a71677cb7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746887817774
+status: 3
+tags: []
+user_id: apple.store.pk

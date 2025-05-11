@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/apple.store.pk/Desktop/MLOps_Project/mlruns/786922403478553257/dcefc3e58c884c45826c6b663dbbeb4f/artifacts
+end_time: 1746887600174
+entry_point_name: ''
+experiment_id: '786922403478553257'
+lifecycle_stage: active
+run_id: dcefc3e58c884c45826c6b663dbbeb4f
+run_name: casual-cod-90
+run_uuid: dcefc3e58c884c45826c6b663dbbeb4f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746887599025
+status: 4
+tags: []
+user_id: apple.store.pk

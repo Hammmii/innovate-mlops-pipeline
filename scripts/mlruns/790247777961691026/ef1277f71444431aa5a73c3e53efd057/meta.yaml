@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/apple.store.pk/Desktop/MLOps_Project/scripts/mlruns/790247777961691026/ef1277f71444431aa5a73c3e53efd057/artifacts
+end_time: 1746887739248
+entry_point_name: ''
+experiment_id: '790247777961691026'
+lifecycle_stage: active
+run_id: ef1277f71444431aa5a73c3e53efd057
+run_name: incongruous-cow-600
+run_uuid: ef1277f71444431aa5a73c3e53efd057
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746887738155
+status: 4
+tags: []
+user_id: apple.store.pk
